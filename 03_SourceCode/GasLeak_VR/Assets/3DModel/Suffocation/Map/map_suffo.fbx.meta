@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 02ccbe88deec6f2438450a104a5d29c9
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Decal_merged
+    second: {fileID: 2100000, guid: f2e08d2929847174fbc3f83decb3112c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete_mat
+    second: {fileID: 2100000, guid: 877bc0cbdada77d4282d78ebe676039c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirty_water
+    second: {fileID: 2100000, guid: b08e376960728b140b9bafa9a50b74f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_light_low
+    second: {fileID: 2100000, guid: 085966cc7b55a9e409f422666fe171ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipe2_low
+    second: {fileID: 2100000, guid: e3ad30242e3531846a69e16f7fc47f78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipe3_low
+    second: {fileID: 2100000, guid: 840db06e84b7aae40a7929e79892390f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prop_merged
+    second: {fileID: 2100000, guid: a2cc1ec9c65d6124187ef34b40b37df0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vert_tank_low
+    second: {fileID: 2100000, guid: b4ee393b7fb231c4fa72189ea0ec87e2, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - "#BAKERY{\"meshName\":[\"water_tank_low.004\",\"water_tank_low.003\",\"water_tank_low.002\",\"water_tank_low.001\",\"water_tank_low\",\"valve_002_mesh.004\",\"valve_002_mesh.003\",\"valve_002_mesh.002\",\"upper_part_low.010\",\"upper_part_low.009\",\"upper_part_low.008\",\"upper_part_low.007\",\"upper_part_low.006\",\"upper_part_low.005\",\"upper_part_low.004\",\"upper_part_low.002\",\"upper_part_low.001\",\"tube_mesh.002\",\"tube_mesh.001\",\"tube_004_mesh.001\",\"tube_003_mesh.003\",\"tube_003_mesh.002\",\"tube_003_mesh.001\",\"tube_001_mesh_low.006\",\"tube_001_mesh_low.005\",\"tube_001_mesh_low.004\",\"tube_001_mesh_low.003\",\"tube_001_mesh_low.002\",\"tube_001_mesh_low.001\",\"tube_001_mesh_low\",\"support_003_mesh.001\",\"Plane.094\",\"Plane.093\",\"Plane.091\",\"Plane.090\",\"Plane.089\",\"Plane.088\",\"Plane.087\",\"Plane.086\",\"Plane.085\",\"Plane.084\",\"Plane.083\",\"Plane.082\",\"Plane.081\",\"Plane.080\",\"Plane.079\",\"Plane.078\",\"Plane.077\",\"Plane.076\",\"Plane.075\",\"Plane.074\",\"Plane.073\",\"Plane.072\",\"Plane.071\",\"Plane.070\",\"Plane.069\",\"Plane.068\",\"Plane.067\",\"Plane.066\",\"Plane.065\",\"Plane.064\",\"Plane.063\",\"Plane.062\",\"Plane.061\",\"Plane.060\",\"Plane.059\",\"Plane.058\",\"Plane.057\",\"Plane.056\",\"Plane.055\",\"Plane.054\",\"Plane.053\",\"Plane.052\",\"Plane.051\",\"Plane.050\",\"Plane.049\",\"Plane.048\",\"Plane.047\",\"Plane.046\",\"Plane.045\",\"Plane.043\",\"Plane.042\",\"Plane.041\",\"Plane.040\",\"Plane.039\",\"Plane.038\",\"Plane.037\",\"Plane.036\",\"Plane.035\",\"Plane.034\",\"Plane.033\",\"Plane.032\",\"Plane.031\",\"Plane.030\",\"Plane.029\",\"Plane.028\",\"Plane.027\",\"Plane.025\",\"Plane.024\",\"Plane.023\",\"Plane.022\",\"Plane.021\",\"Plane.020\",\"Plane.018\",\"Plane.015_Curve.001\",\"Plane.015_Curve\",\"Plane.014\",\"Plane.013\",\"Plane.012\",\"Plane.010\",\"Plane.009\",\"Plane.007\",\"Plane.006\",\"Plane.005\",\"Plane.002\",\"Plane.001\",\"pipe.002\",\"valve_002_mesh.007\",\"valve_002_mesh.006\",\"valve_002_mesh.005\",\"tube_004_mesh.002\",\"tube_003_mesh.006\",\"tube_003_mesh.005\",\"tube_003_mesh.004\",\"support_003_mesh.002\",\"main_mesh.008\",\"main_mesh.007\",\"main_mesh.006\",\"fan_mesh.002\",\"Circle.027\",\"Circle.026\",\"Circle.025\",\"Circle.024\",\"Circle.023\",\"Circle.022\",\"Circle.021\",\"Circle.020\",\"Circle.019\",\"Circle.018\",\"Circle.017\",\"Circle.016\",\"button_001_mesh.002\",\"box_mesh.002\",\"bolt_001_mesh.003\",\"main_mesh.005\",\"main_mesh.004\",\"main_mesh.003\",\"main_mesh.002\",\"main_mesh.001\",\"liquid_can_low.008\",\"liquid_can_low.007\",\"liquid_can_low.006\",\"liquid_can_low.005\",\"liquid_can_low.004\",\"liquid_can_low.003\",\"liquid_can_low.002\",\"liquid_can_low.001\",\"liquid_can_low\",\"industrial_trash_container_low.003\",\"industrial_trash_container_low.002\",\"industrial_trash_container_low.001\",\"industrial_trash_container_low\",\"Fluent_Wire.copy.002\",\"fan_mesh.001\",\"door_low.002\",\"door_low.001\",\"door_low\",\"Cylinder.037\",\"Cylinder.036\",\"Cylinder.035\",\"Cylinder.034\",\"Cylinder.033\",\"Cylinder.032\",\"Cylinder.031\",\"Cylinder.030\",\"Cylinder.029\",\"Cylinder.028\",\"Cylinder.027\",\"Cylinder.026\",\"Cylinder.025\",\"Cylinder.024\",\"Cylinder.023\",\"Cylinder.022\",\"Cylinder.021\",\"Cylinder.020\",\"Cylinder.019\",\"Cylinder.018\",\"Cylinder.017\",\"Cylinder.016\",\"Cylinder.015\",\"Cylinder.014\",\"Cylinder.013\",\"Cylinder.012\",\"Cylinder.011\",\"Cylinder.010\",\"Cylinder.009\",\"Cylinder.008\",\"Cylinder.007\",\"Cylinder.006\",\"Cylinder.005\",\"Cylinder.004\",\"Cylinder.003\",\"Cylinder.002\",\"Cylinder.001\",\"Curve\",\"Cube.052\",\"Cube.051\",\"Cube.050\",\"Cube.049\",\"Cube.048\",\"Cube.047\",\"Cube.046\",\"Cube.045\",\"Cube.044\",\"Cube.043\",\"Cube.042\",\"Cube.041\",\"Cube.040\",\"Cube.039\",\"Cube.038\",\"Cube.037\",\"Cube.036\",\"Cube.035\",\"Cube.026\",\"Cube.025\",\"Cube.024\",\"Cube.023\",\"Cube.022\",\"Cube.021\",\"Cube.020\",\"Cube.008\",\"Cube.007\",\"Cube.006\",\"Cube.005\",\"Cube.004\",\"Cube.003\",\"Cube.002\",\"Cube.001\",\"Cube\",\"Circle.028_Curve.002\",\"Circle.028_Curve.001\",\"Circle.015\",\"Circle.014\",\"Circle.013\",\"Circle.012\",\"Circle.011\",\"Circle.010\",\"Circle.008\",\"Circle.007\",\"Circle.006\",\"Circle.005\",\"Circle.004\",\"Circle.003\",\"Circle.002\",\"B\xE9zierCurve_Curve_Curve\",\"button_001_mesh.001\",\"box_mesh.001\",\"bolt_001_mesh.002\",\"Cube.009\"],\"padding\":[62,62,62,62,36,256,256,256,256,256,256,256,256,256,256,256,256,31,31,256,182,182,182,70,64,65,51,64,70,18,192,31,27,52,43,40,256,256,25,256,256,256,256,256,192,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,232,256,256,256,256,256,256,256,256,256,256,256,256,256,256,240,256,202,256,29,256,256,256,256,89,256,256,256,57,57,19,16,114,23,23,45,27,38,27,47,23,256,256,256,101,74,74,256,30,8,32,116,11,3,36,256,256,256,256,182,182,182,192,256,256,256,174,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,59,256,256,256,59,165,165,165,165,165,165,165,165,165,100,100,100,100,178,174,78,78,78,256,256,256,256,256,256,213,213,213,104,104,177,177,178,178,167,167,177,177,256,137,137,231,231,256,256,256,253,192,253,192,131,213,177,177,256,77,180,104,65,256,88,108,103,241,70,204,204,109,91,121,256,256,256,159,241,32,107,38,25,26,26,26,82,34,34,32,32,34,11,34,13,256,102,121,256,256,256,256,256,256,256,256,256,256,256,256,38,256,256,256,91],\"unwrapper\":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}"
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: cd7e792b04ec7e140a2fc58d17e822c3
+timeCreated: 1569408696
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: B_Body
+    100002: B_Fork
+    100004: B_L_Back_Weell
+    100006: B_L_Weel_Front
+    100008: B_R_Back_Weell
+    100010: B_R_Weel_Front
+    100012: B_Rudder
+    100014: B_Switching_handle
+    100016: Body_Mesh
+    100018: Fork_Mesh
+    100020: Forklift_Loader
+    100022: //RootNode
+    100024: HP_Body
+    100026: HP_Fork
+    100028: HP_L_Back_Weell
+    100030: HP_L_Weel_Front
+    100032: HP_R_Back_Weell
+    100034: HP_R_Weel_Front
+    100036: HP_Rudder
+    100038: HP_Switching_handle
+    100040: L_Weel_Back_Mesh
+    100042: L_Weel_Front_Mesh
+    100044: R_Weel_Back_Mesh
+    100046: R_Weel_Front_Mesh
+    100048: Rudder_Mesh
+    100050: Switching_handle_Mesh
+    400000: B_Body
+    400002: B_Fork
+    400004: B_L_Back_Weell
+    400006: B_L_Weel_Front
+    400008: B_R_Back_Weell
+    400010: B_R_Weel_Front
+    400012: B_Rudder
+    400014: B_Switching_handle
+    400016: Body_Mesh
+    400018: Fork_Mesh
+    400020: Forklift_Loader
+    400022: //RootNode
+    400024: HP_Body
+    400026: HP_Fork
+    400028: HP_L_Back_Weell
+    400030: HP_L_Weel_Front
+    400032: HP_R_Back_Weell
+    400034: HP_R_Weel_Front
+    400036: HP_Rudder
+    400038: HP_Switching_handle
+    400040: L_Weel_Back_Mesh
+    400042: L_Weel_Front_Mesh
+    400044: R_Weel_Back_Mesh
+    400046: R_Weel_Front_Mesh
+    400048: Rudder_Mesh
+    400050: Switching_handle_Mesh
+    4300000: L_Weel_Front_Mesh
+    4300002: L_Weel_Back_Mesh
+    4300004: R_Weel_Back_Mesh
+    4300006: Switching_handle_Mesh
+    4300008: Rudder_Mesh
+    4300010: Fork_Mesh
+    4300012: R_Weel_Front_Mesh
+    4300014: Body_Mesh
+    9500000: //RootNode
+    13700000: Body_Mesh
+    13700002: Fork_Mesh
+    13700004: L_Weel_Back_Mesh
+    13700006: L_Weel_Front_Mesh
+    13700008: R_Weel_Back_Mesh
+    13700010: R_Weel_Front_Mesh
+    13700012: Rudder_Mesh
+    13700014: Switching_handle_Mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
